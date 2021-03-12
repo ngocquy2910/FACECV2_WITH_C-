@@ -1,0 +1,5 @@
+C:\Users\Nguyen Ngoc Quy\OneDrive\Máy tính\FaceRecProOV\obj\x86\Release\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Nguyen Ngoc Quy\OneDrive\Máy tính\FaceRecProOV\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Nguyen Ngoc Quy\OneDrive\Máy tính\FaceRecProOV\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+C:\Users\Nguyen Ngoc Quy\OneDrive\Máy tính\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Nguyen Ngoc Quy\OneDrive\Máy tính\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.CoreCompileInputs.cache
